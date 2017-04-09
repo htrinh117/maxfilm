@@ -1,0 +1,50 @@
+[
+  {
+    "title"      : "THE BLUE WHALE STORY",
+    "description": "TORONTO, March 8, 2017 – The Royal Ontario Museum (ROM) is pleased to announce the opening of Out of the Depths: The Blue Whale Story. On display from Saturday, March 11 to Monday, September 4, 2017, the exhibition explores the story of the nine blue whales from the endangered North Atlantic population that became stranded in thick ice and died in May 2014. The results of that work form the centrepiece of this astonishing exhibition — a massive, fully-articulated Blue Whale skeleton, at 80 feet, one of the largest, most complete displays of its kind in the world.",
+    "date"       : "March 8, 2017",
+    "link"       : "http://www.rom.on.ca/en/blue-whale",
+    "image"      : "../img/news/Big-blue.jpg",
+    "location"   : "ROM"
+  },
+  {
+    "title"      : "WILDLIFE PHOTOGRAPHER OF THE YEAR",
+    "description": "Discover striking wildlife and captivating landscapes as Wildlife Photographer of the Year, the longest-running and most prestigious nature photography competition in the world, returns to the ROM for its fourth year. Featuring new photographs from the 2016 competition, Wildlife Photographer of the Year continues to amaze and move viewers with the remarkable beauty and diversity of the natural world.",
+    "date"       : "March 19, 2017",
+    "link"       : "http://www.rom.on.ca/en/wildlife2016#/gallery/recent",
+    "image"      : "../img/news/wildlife.jpg",
+    "location"   : "ROM"
+  },
+  {
+    "title"      : "DAWN OF LIFE PREVIEW",
+    "description": "In anticipation of the new Dawn of Life gallery, which will be home to the ROM’s world renowned collection of Burgess Shale specimens, the Museum will have a special display of spectacular pieces that will introduce how the new gallery will present, interpret, and explain fossil life. These specimens will give a sneak peek into the remarkable history of life on Earth before the dinosaurs, and how the Earth has changed drastically over time. Some of the pieces identified have been in the ROM’s vaults for decades, or were acquired specifically for the new Dawn of Life gallery, and will be a unique experience for visitors.",
+    "date"       : "On Going",
+    "link"       : "https://www.rom.on.ca/en/exhibitions-galleries/exhibitions/dawn-of-life-preview",
+    "image"      : "../img/news/dawn.jpg",
+    "location"   : "ROM"
+  },
+  {
+    "title"      : "GEORGIA O'KEEFFE",
+    "description": "Don’t miss this rare opportunity to experience the beautiful innovative art of Georgia O’Keeffe, a trailblazing figure in American modernism. Making its only stop in North America at the AGO, Georgia O’Keeffe features more than 80 works of art capturing the essence of her deeply personal connection to the landscape, architecture and nature that inspired her iconic style.",
+    "date"       : "April 22, 2017 – July 30, 2017",
+    "link"       : "https://www.ago.net/georgia-okeeffe",
+    "image"      : "../img/news/Georgia.jpg",
+    "location"   : "AGO"
+  },
+  {
+    "title"      : "YAYOI KUSAMA: INFINITY MIRRORS",
+    "description": "Yayoi Kusama: Infinity Mirrors provides visitors with the unique opportunity to experience six of Kusama’s most iconic kaleidoscopic environments at once, alongside large-scale, whimsical installations and key paintings, sculptures and works on paper from the early 1950s to the present. It also marks the North American debut of numerous new works by the 87-year-old artist, who is still actively creating in her Tokyo studio. These include large-scale, vibrantly colored paintings and the recently realized infinity room, All the Eternal Love I have for Pumpkins (2016), featuring dozens of her signature bright yellow, dotted pumpkins.",
+    "date"       : "March 3 —May 27 2018",
+    "link"       : "https://www.ago.net/ago-to-be-only-canadian-stop-for-highly-anticipated-yayoi-kusama-exhibition",
+    "image"      : "../img/news/mirror.jpg",
+    "location"   : "AGO"
+  },
+  {
+    "title"      : "IN/VISIBLE BODIES: BAROQUE SCRULPTURE AND MODERN PAINTING",
+    "description": "Artists have always had an interest in the body, but their representations of the human form have changed dramatically over the last 250 years. In the 1600s and 1700s, sculptors Giovanni Battista Foggini and François Lespingola approached the body with extreme precision: in their renderings of mythological figures, muscles and tendons appear ready to burst through the bronze surfaces. The Francis Bacon painting on view shows how many 20th-century artists shifted away from anatomical exactness. His work, whose subject is ambiguous, represents the body in a more abstract and provocative way. It was once conventional for artists to present lifelike depictions of external features; many now forgo accuracy in order to explore the intangible emotions that exist below the surface.",
+    "date"       : "September 27, 2014 - ongoing",
+    "link"       : "https://www.ago.net/invisible-bodies-baroque-sculpture-and-modern-painting",
+    "image"      : "../img/news/sculpture.jpg",
+    "location"   : "ROM"
+  }
+]
