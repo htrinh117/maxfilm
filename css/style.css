@@ -1,0 +1,73 @@
+@import url(http://fonts.googleapis.com/css?family=Teko:300,700);
+
+body {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	background: none;
+}
+
+.full {
+  background: url(../img/home.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.welcomeWord{
+	margin: 10% 0 auto auto;
+	border-radius: 20px;
+	padding:15px;
+}
+
+.welcomeWord h1, p{
+	color: white;
+}
+
+#mainnav{
+	background-color: transparent;
+	border:none;
+}
+
+#mainnav .navbar-nav>li>a, .main-navbar-header>.navbar-brand{
+	color:white;
+}
+
+#mainnav .navbar-nav>li>a:hover, .main-navbar-header>.navbar-brand:hover{
+	border-top: solid 1px white;
+	border-bottom: solid 1px white;
+}
+
+.img-responsive{
+	padding: 10px;
+}
+
+.category-page #mainnav .navbar-nav>li>a, .category-page .main-navbar-header>.navbar-brand{
+	color:black;
+}
+
+.category-page #mainnav .navbar-nav>li>a:hover, .category-page.main-navbar-header>.navbar-brand:hover{
+	border-top: solid 1px black;
+	border-bottom: solid 1px black;
+}
+
+.container .artist-label{
+	text-decoration: none;
+    color: black;
+    font-family: Teko;
+    letter-spacing: 2px;
+    font-size: 2em;
+}
+
+.container .artist-label:link{
+	text-decoration: none;
+}
+
+.container .artist-label:hover{
+	text-decoration: none;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+}
+
+.modal-dialog {width:600px;}
+.thumbnail {margin-bottom:6px;}
